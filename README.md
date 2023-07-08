@@ -6,6 +6,8 @@ FakeReview
 
 Установка
 ------------------------------
+Чтобы установить проект на anaconda необходимо ввести следующие команды:
+
     conda install -c anaconda git
     git clone https://github.com/Zavadskiy-Kostya/FakeReview
     cd FakeReview
