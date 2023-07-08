@@ -1,7 +1,23 @@
 FakeReview
 ==============================
+Описание
+------------
+Программа принимает на вход признаки отзывов, записанные в csv файле и возвращает решение о фейковости отзывов.
 
-A short description of the project.
+Установка
+------------------------------
+    conda install -c anaconda git
+    git clone https://github.com/Zavadskiy-Kostya/FakeReview
+    cd FakeReview
+    conda create --name fakereview --file requirements.txt python=3.10
+    activate fakereview
+    cd src
+    python __init__.py
+
+С помощью файла config.txt можно настравивать 3 параметра работы программы:
+- type (принимает значение "simple" (LogisticRegression) или "hard" (CatBoostClassifier + bert));
+- location_of_input_data  (путь к csv файлу с признаками отзывов);
+- location_of_output_data (путь к csv файлу, в который будет записано решение о фейковости).
 
 Project Organization
 ------------
