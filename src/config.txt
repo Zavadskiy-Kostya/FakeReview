@@ -1,0 +1,3 @@
+type                    = hard
+location_of_input_data  = input.csv
+location_of_output_data = output.csv

@@ -1,0 +1,10 @@
+# Список литературы
+- [1] F. H. Li, M. Huang, Y. Yang, and X. Zhu, ‘‘Learning to identify review spam,’’ in Proc. 22nd Int. Joint Conf. Artif. Intell., 2011, pp. 1–6.
+- [2] H. Li, G. Fei, S. Wang, B. Liu, W. Shao, A. Mukherjee, and J. Shao, ‘‘Bimodal distribution and co-bursting in review spam detection,’’ in Proc. 26th Int. Conf. World Wide Web, Apr. 2017, pp. 1063–1072.
+- [3]  Y. Li, ‘‘Highlighting the fake reviews in review sequence with the suspicious contents and behaviours,’’ J. Inf. Comput.al Sci., vol. 12, no. 4, pp. 1615–1627, Mar. 2015.
+- [4] A. Mukherjee, A. Kumar, B. Liu, J. Wang, M. Hsu, M. Castellanos, and R. Ghosh, ‘‘Spotting opinion spammers using behavioral footprints,’’ in Proc. 19th ACM SIGKDD Int. Conf. Knowl. Discovery Data Mining, Aug. 2013, pp. 632–640.
+- [5] J. Devlin, M.-W. Chang, K. Lee, and K. Toutanova, ‘‘BERT: Pretraining of deep bidirectional transformers for language understanding,’’ 2018, arXiv:1810.04805. [Online]. Available: http://arxiv.org/abs/1810. 04805
+- [6]V. Sanh, L. Debut, J. Chaumond, and T. Wolf, ‘‘DistilBERT, a distilled version of BERT: Smaller, faster, cheaper and lighter,’’ 2019, arXiv:1910.01108. [Online]. Available: http://arxiv.org/abs/1910. 01108
+- [7] Y. Liu, M. Ott, N. Goyal, J. Du, M. Joshi, D. Chen, O. Levy, M. Lewis, L. Zettlemoyer, and V. Stoyanov, ‘‘RoBERTa: A robustly optimized BERT pretraining approach,’’ 2019, arXiv:1907.11692. [Online]. Available: http://arxiv.org/abs/1907.11692
+- [8]  S. Shojaee, M. A. A. Murad, A. B. Azman, N. M. Sharef, and S. Nadali,‘‘Detecting deceptive reviews using lexical and syntactic features,’’ in Proc. 13th Int. Conf. Intellient Syst. Design Appl., Dec. 2013, pp. 53–58.
+- [9] Yingtong Dou, Guixiang Ma, Philip S. Yu, Sihong Xie, "Robust Spammer Detection by Nash Reinforcement Learning", 2020, 	arXiv:2006.06069. [Online]. Available: https://arxiv.org/abs/2006.06069
